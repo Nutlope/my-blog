@@ -58,12 +58,12 @@ const Layout = ({ location, title, children }) => {
     >
       <header>{header}</header>
       <main>{children}</main>
-      <footer>
+      {/* <footer>
         <h4>
           <a href="https://twitter.com/Nutlope">Twitter</a> •
           <a href="https://github.com/Nutlope"> Github</a>{" "}
         </h4>
-      </footer>
+      </footer> */}
     </div>
   )
 }
