@@ -4,7 +4,7 @@ date: "2020-09-11T22:40:32.169Z"
 description: A detailed post on exactly how I got my Professional Scrum Master certification in 3 days, and how you can too.
 ---
 
-I wrote this guide to share exactly how I studied and [passed] (https://www.scrum.org/user/718363) the [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification) certification, and how you can too. Let's get started!
+I wrote this guide to share exactly how I studied and [passed](https://www.scrum.org/user/718363) the [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification) certification, and how you can too. Let's get started!
 
 # What is Scrum?
 Scrum is a framework that helps teams work together to solve a complex problem. It's primarily used in software development and encourages teams to self-organize, keep progress transparent, and continuously plan, reflect, and adapt.
@@ -13,7 +13,7 @@ Whether you're just learning what scrum and agile mean for the first time, or yo
 
 This certification costs $150, has no requirements, and is taken online.
 
-*Note that the certification I passed was the [PSM I] (https://www.scrum.org/professional-scrum-master-i-certification) certification, not the [CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster). They are different - I generally recommend the PSM as it doesn't require you to complete an expensive training like the CSM.*
+*Note that the certification I passed was the [PSM I](https://www.scrum.org/professional-scrum-master-i-certification) certification, not the [CSM](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster). They are different - I generally recommend the PSM as it doesn't require you to complete an expensive training like the CSM.*
 
 # My Process
 
