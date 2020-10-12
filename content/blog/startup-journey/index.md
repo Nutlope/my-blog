@@ -25,7 +25,7 @@ I spent ~3 hours a day looking for traders, negotiating, and trading. Despite my
 
 The in-game currency could be traded for real money, so I cashed out the few hundred dollars of in-game currency to my Paypal account. I then started targeting people who quit the game and had a lot of items that they could not sell quickly. I'd buy all their items for 60% of their value in Paypal $, take my time selling it for 80–90% of the value, cash out to Paypal, then rinse and repeat.
 
-After another 5 months of consistently using this strategy, **I ended up with $4000**. While I was proud of it, the game saw a dropoff of players and I began to lose interest so I decided to start looking for something new.
+After another 5 months of consistently using this strategy, **I ended up with $4000**. While I was proud of it, the game saw a drop-off of players and I began to lose interest so I decided to start looking for something new.
 
 ## The Idea - Validation & Investment
 One day, I was talking to a few game developer friends who were complaining about how hard it was to get their games on large PC platforms like Steam. These were people who developed games in their free time and were finding it difficult to get them on Steam to sell them.
@@ -36,7 +36,7 @@ I decided to try to see if I can help these small developers with their marketin
 
 Thus, UltraShock Gaming was born.
 
-The first thing I needed was an audience to advertise to. I already had a bit of an audience from my [Youtube Channel](https://www.youtube.com/channel/UCyKY7jfioUZ0MHON0BmHQuA), but I wanted other forms of social media to create my giveaways, so I made a steam group (similar to a facebook page but on the Steam platform) as I determined this to have better reach for gamers than traditional social media. After this, I started reaching out to developers who had games on Steam to ask if they wanted to send me some copies of their game to give away. It was a win-win situation; they got free advertising through me showcasing their game and I was growing my steam group through the giveaways. 
+The first thing I needed was an audience to advertise to. I already had a bit of an audience from my [YouTube Channel](https://www.youtube.com/channel/UCyKY7jfioUZ0MHON0BmHQuA), but I wanted other forms of social media to create my giveaways, so I made a steam group (similar to a Facebook page but on the Steam platform) as I determined this to have better reach for gamers than traditional social media. After this, I started reaching out to developers who had games on Steam to ask if they wanted to send me some copies of their game to give away. It was a win-win situation; they got free advertising through me showcasing their game and I was growing my steam group through the giveaways. 
 
 I would post a giveaway, ask my audience to just comment anything to enter, randomly pick winners when it concluded, and distribute the games to them. [Here's an example of one I did](https://steamcommunity.com/groups/UltraShockGaming/announcements/detail/645508898226995085).
 
@@ -49,7 +49,7 @@ I then started Twitter & Facebook pages to continue to promote giveaways, specif
 ![twitter](./usg_twitter.png)
 
 ## Scaling Up - Hiring, delegating, & growing
-Before I knew it, I was managing five steam groups totalling 500,000 members and their respective giveaways, social media giveaways, finding game developers and emailing them for games to giveaway, and running other day to day operations. I was overwhelmed with work, so I decided to hire several interns to help out. 
+Before I knew it, I was managing five steam groups totaling 500,000 members and their respective giveaways, social media giveaways, finding game developers and emailing them for games to giveaway, and running other day to day operations. I was overwhelmed with work, so I decided to hire several interns to help out. 
 
 These interns helped me:
 - Collect emails of game developers, so I could email & ask for games to giveaway
@@ -79,7 +79,7 @@ To recap, here's a flow chart of my startup journey thus far.
 
 ## Organizational Structure
 
-As I started to make money and the work increased, since I now needed to start contacting gaming companies and game developers to start pitching our services to them, I realized I needed a more effecient organizational structure.
+As I started to make money and the work increased, since I now needed to start contacting gaming companies and game developers to start pitching our services to them, I realized I needed a more efficient organizational structure.
 
 I worked with [my dad](https://www.linkedin.com/in/sox/), a CPA, to restructure the organization and company processes, as well as incorporate the business as an LLC. 
 
