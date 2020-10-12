@@ -21,7 +21,7 @@ My 8 cent item for their 10 cent item.
 
 Slowly, as I started building up in-game currency, I started buying multiple items at once at a slight discount and spent hours selling them one by one for their full price. It was grueling work -  several hours just to end up making less than a dollar.
 
-I spent ~3 hours a day looking for traders, negotiating, and trading. Despite my parent’s pleas to stop wasting so much time, I continued because I saw the potential this had once I could scale this. After a few months, I had *a few hundred dollars worth* of items.
+I spent ~3 hours a day looking for traders, negotiating, and trading. Despite my parents' pleas to stop wasting so much time, I continued because I saw the potential this had once I could scale it up. After a few months, I had *a few hundred dollars worth* of items.
 
 The in-game currency could be traded for real money, so I cashed out the few hundred dollars of in-game currency to my Paypal account. I then started targeting people who quit the game and had a lot of items that they could not sell quickly. I'd buy all their items for 60% of their value in Paypal $, take my time selling it for 80–90% of the value, cash out to Paypal, then rinse and repeat.
 
@@ -30,7 +30,7 @@ After another 5 months of consistently using this strategy, **I ended up with $4
 ## The Idea - Validation & Investment
 One day, I was talking to a few game developer friends who were complaining about how hard it was to get their games on large PC platforms like Steam. These were people make games in their free time (typically takes ~1 year at least) and were finding it difficult to get it on Steam to sell it.
 
-At the time, Steam required developers to go through a process that involved putting their game on a platform called Greenlight where you needed to get many users to vote on your game and state that they would consider buying it. If it generated enough interest (usually several hundred to a few thousand votes), then Steam would “Greenlight it” and accept it into the Steam store. 
+At the time, Steam required developers to go through a process that involved putting their game on a platform called Greenlight where you needed to get many users to vote on your game and state that they would consider buying it. If it generated enough interest, (usually several hundred to a few thousand votes) Steam would “Greenlight it” and accept it into the Steam store. 
 
 I decided to try to see if I can help these small developers with their marketing and getting them on platforms like Steam to sell their games. I planned to do this by first growing an audience through free game giveaways whom I could ask to vote on certain games in order to greenlight them and get them accepted to the Steam store.
 
@@ -44,7 +44,7 @@ I kept these giveaways free, consistent, and high quality (good games that peopl
 
 As a result of the growth, I decided to acquire a few other Steam groups (such as [Warrior Navy](https://steamcommunity.com/groups/warriornavy)) to expand my reach with the initial $4000 I earned trading TF2 items in the beginning. This quickly grew my audience to a combined reach of 500,000 gamers across all my groups.
 
-I then launched a company twitter to continue to promote giveaways and ran some other giveaways through gleam.io.
+I then started Twitter & Facebook pages to continue to promote giveaways, specifically those we ran through gleam.io that required users to perform certain actions to join giveaways. An example of a giveaway on Twitter can be seen below.
 
 ![twitter](./usg_twitter.png)
 
@@ -81,7 +81,7 @@ To recap, here's a flow chart of my startup journey thus far.
 
 As I started to make money and the work increased, since I now needed to start contacting gaming companies and game developers to start pitching our services to them, I realized I needed a more effecient organizational structure.
 
-I worked with [my dad](https://www.linkedin.com/in/sox/), a CPA, to restructure the organization and company processes. 
+I worked with [my dad](https://www.linkedin.com/in/sox/), a CPA, to restructure the organization and company processes, as well as incorporate the business as an LLC. 
 
 For restructuring the organization, I hired 5 individuals part-time (from all around the world) to each manage one of our Steam groups and oversee the moderators (interns) for each group, group growth, and engagement. Each group was given the autonomy to operate as a separate entity, contact developers, and run their own giveaways. 
 
