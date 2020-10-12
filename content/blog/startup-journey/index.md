@@ -28,7 +28,7 @@ The in-game currency could be traded for real money, so I cashed out the few hun
 After another 5 months of consistently using this strategy, **I ended up with $4000**. While I was proud of it, the game saw a dropoff of players and I began to lose interest so I decided to start looking for something new.
 
 ## The Idea - Validation & Investment
-One day, I was talking to a few game developer friends who were complaining about how hard it was to get their games on large PC platforms like Steam. These were people make games in their free time (typically takes ~1 year at least) and were finding it difficult to get it on Steam to sell it.
+One day, I was talking to a few game developer friends who were complaining about how hard it was to get their games on large PC platforms like Steam. These were people who developed games in their free time and were finding it difficult to get them on Steam to sell them.
 
 At the time, Steam required developers to go through a process that involved putting their game on a platform called Greenlight where you needed to get many users to vote on your game and state that they would consider buying it. If it generated enough interest, (usually several hundred to a few thousand votes) Steam would “Greenlight it” and accept it into the Steam store. 
 
@@ -128,9 +128,11 @@ Every time I thought about selling, I would remember all the blood, sweat, and t
 In August of 2020, I decided enough was enough, and moved forward with listing my startup on [MicroAcquire](https://app.microacquire.com/startup/AfZuf90IhJcW2jOt9xnabAhnXoM2/4cehMplv8hPrxvOk2BuK) at a fraction of the price I could have gotten. I got 22 requests from interested buyers, 7 of whom were serious and I had discussions with, and after a lot of back and forth, **I ended up selling the business to two separate buyers for $10,000 a month later**.
 
 ## Key Takeaway - You can do it too
-If a student with no business background who has never even read a business book could start and run a semi-successful business with no resources in a developing country, you can definitely do that one thing you've been wanting to do for a while.
+If a student with no business background could start and run a semi-successful startup with no resources in a developing country, you can definitely run a startup (or do anything else you want).
 
-It was not easy, but it was simple. My typical schedule during weekdays of my senior year of high school was go to school, come back at 5pm, get homework done in 1-2 hours, then spend 6pm to midnight working on the business. On weekends, I’d likely spend 10 hours a day on it. My social life suffered for a year but I was able to make it work, and if I had to do it again, I’d would in a heartbeat.
+There will always be some sacrifices - it's up to you if you think it's worth it.
+ 
+My typical schedule during weekdays of my senior year of high school was go to school, come back at 5pm, get homework done in 1-2 hours, then spend 6pm to midnight working on the business. On weekends, I’d likely spend 10 hours a day on it. My social life suffered for a year but I was able to make it work, and if I had to do it again, I would in a heartbeat.
 
 I learned so much from running this business. I learned how to manage people, how to be consistent (and what happens if you’re not), how to pitch to clients, how to draft and sign contracts, how to build an audience/brand, and so many more things. Things that I would have never learned from a book.
 
