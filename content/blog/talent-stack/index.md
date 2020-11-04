@@ -52,7 +52,7 @@ Here's the talent stack that I'm developing right now:
 2. Writing (communicating my thoughts clearly)
 3. Business Strategy (analyzing businesses and identifying trends)
 
-Coding is very important to me because I like to build products and be able to code up quick prototypes. I'm getting better at this through building side projects like this [covid tracking app](https://uscovidtracker.org/) I'm working on right now.
+Coding is very important to me because I like to build products and be able to code up quick prototypes. I'm getting better at this through building side projects.
 
 Writing is also crucial because I want to be able to scale myself. It allows me to share my thoughts, get feedback from others, and build an audience. I’m developing this skill through writing on twitter and this blog that you’re reading right now.
 
