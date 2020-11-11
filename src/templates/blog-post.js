@@ -6,6 +6,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Signup from "../components/Signup"
 import { rhythm, scale } from "../utils/typography"
+import logo from "./default_image.png"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
@@ -13,7 +14,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext
   // const post = data.mdx TODO: Delete this if it works
   const { image } = post.frontmatter
-  const imagePath = image || image.childImageSharp.fixed.src // TODO: change this to include a default image
+  const imagePath = image ? image.childImageSharp.fixed.src : logo
 
   return (
     <Layout location={location} title={siteTitle}>
