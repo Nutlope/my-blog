@@ -11,12 +11,16 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
+  // const post = data.mdx TODO: Delete this if it works
+  const { image } = post.frontmatter
+  const imagePath = image || image.childImageSharp.fixed.src // TODO: change this to include a default image
 
   return (
     <Layout location={location} title={siteTitle}>
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
+        image={imagePath}
       />
       <article>
         <header>
@@ -99,6 +103,13 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        image {
+          childImageSharp {
+            fixed {
+              src
+            }
+          }
+        }
       }
     }
   }
