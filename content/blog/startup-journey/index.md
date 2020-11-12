@@ -2,7 +2,7 @@
 title: How I started a 6 figure remote startup as a high school student in Africa
 date: "2020-10-11T22:40:32.169Z"
 description: A summary of how I started, scaled, and sold my startup, as well as key lessons that I learned.
-ogimage: ./org.png
+ogimage: "./org.png"
 ---
 
 I was recently a guest on a [live stream](https://www.youtube.com/watch?v=Og0H0REOTco&t=488s&ab_channel=EvaincludeJS) to talk about my startup journey, so I decided to do a quick writeup summarizing how I started, scaled, and sold my startup, as well as some lessons learned.

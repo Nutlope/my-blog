@@ -13,8 +13,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
   // const post = data.mdx TODO: Delete this if it works
-  const { image } = post.frontmatter
-  const imagePath = image ? image.childImageSharp.fixed.src : logo
+  const { ogimage } = post.frontmatter
+  const imagePath = ogimage ? ogimage.childImageSharp.fixed.src : logo
 
   return (
     <Layout location={location} title={siteTitle}>
