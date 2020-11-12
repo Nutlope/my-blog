@@ -11,7 +11,7 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 // import defaultOpenGraphImage from "../templates/default_image.png"
 
-const SEO = ({ description, lang, meta, title, image }) => {
+const SEO = ({ description, lang, meta, title, image, type }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
