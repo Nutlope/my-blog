@@ -54,7 +54,7 @@ const SEO = ({ description, lang, meta, title, image, type }) => {
         },
         {
           property: `og:type`,
-          content: `ogType`,
+          content: ogType,
         },
         {
           name: `twitter:card`,
