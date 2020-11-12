@@ -31,6 +31,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
 
   const metaDescription = description || site.siteMetadata.description
   const ogImageUrl = site.siteMetadata.siteUrl + image
+  const ogType = type
   return (
     <Helmet
       htmlAttributes={{
@@ -53,7 +54,7 @@ const SEO = ({ description, lang, meta, title, image }) => {
         },
         {
           property: `og:type`,
-          content: `website`,
+          content: `ogType`,
         },
         {
           name: `twitter:card`,

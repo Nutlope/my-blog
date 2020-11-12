@@ -12,7 +12,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
-  // const post = data.mdx TODO: Delete this if it works
   const { ogimage } = post.frontmatter
   const imagePath = ogimage ? ogimage.childImageSharp.fixed.src : logo
 
@@ -22,6 +21,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
         image={imagePath}
+        type="article"
       />
       <article>
         <header>
