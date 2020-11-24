@@ -149,4 +149,8 @@ So go out, create your own path, and don’t listen to people who say you need t
 
 Just do it.
 
+## What I'm working on now
+
+I'm focusing on finishing my degree in Computer Engineering (I graduate mid-2021), job hunting for software engineering roles at high-growth companies, and consulting for some startups. I'm also reading more and sharing what I learn on [twitter](https://twitter.com/Nutlope) and this blog.
+
 _Thanks for reading! If you have any questions or thoughts about the article, I’d love to hear from you on [Twitter](https://twitter.com/Nutlope) or by email (hassan@hey.com)._
