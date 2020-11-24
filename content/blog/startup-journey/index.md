@@ -2,12 +2,14 @@
 title: How I started a 6 figure remote startup as a high school student in Africa
 date: "2020-10-11T22:40:32.169Z"
 description: A summary of how I started, scaled, and sold my startup, as well as key lessons that I learned.
-ogimage: "./org.png"
+image: "./org.png"
 ---
 
-I was recently a guest on a [live stream](https://www.youtube.com/watch?v=Og0H0REOTco&t=488s&ab_channel=EvaincludeJS) to talk about my startup journey, so I decided to do a quick writeup summarizing how I started, scaled, and sold my startup, as well as some lessons learned.
+This is a reflection from 5 years of running a game marketing startup. I discuss how I built the business from the ground up to a community of 500,000 followers with no experience. I talk about lessons learned, mistakes I made, my revenue streams, and more.
 
-Let’s dive right in.
+I was recently a guest on a [live stream](https://www.youtube.com/watch?v=Og0H0REOTco&t=488s&ab_channel=EvaincludeJS) to talk about this startup journey and decided to write a blog on it.
+
+This is my story.
 
 ## Backstory - \$4000 Selling Virtual Items
 
