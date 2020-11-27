@@ -2,6 +2,7 @@
 title: The Standout Developer - 5 Key Takeaways
 date: "2020-08-30T22:40:32.169Z"
 description: This is a writeup of my top 5 key takeaways from Randall Kanna's book, The Standout Developer.
+ogimage: ../startup-journey/journey.png
 ---
 
 As I was reading [The Standout Developer](https://www.thestandoutdeveloper.com/), a book about taking your developer career to the next level, I created a [twitter thread](https://twitter.com/Nutlope/status/1297929885659398145) of my top takeaways from the book. It got some attention, so I decided to write a blog post where I can focus on the top 5, expand on them some more, and include some of my own thoughts.
@@ -26,7 +27,7 @@ The best part? Your reputation travels with you regardless of what you decide to
 
 ## Takeaway #2: How to do well on Twitter
 
-Twitter is one of the best ways to network online as a developer. You get to see & participate in technical discussions, and learn what projects the experts in your field are working on (as well as benefit from their advice). 
+Twitter is one of the best ways to network online as a developer. You get to see & participate in technical discussions, and learn what projects the experts in your field are working on (as well as benefit from their advice).
 
 One piece of advice the author gives is that you should know your audience and tailor your tweets. Think to yourself about what topics you want to tweet about and the type of people you want to attract. This may take some trial and error at first, but once you figure it out, it becomes easier to create tweets that add value since you're writing for a specific group of people.
 
@@ -43,7 +44,7 @@ Reading without taking notes:
 
 <a target="_blank" href="https://twitter.com/anthilemoon/status/1261991953593401346">![Credit: Anne-Laure Le Cunff](./image.jfif)</a>
 
-We forget the vast majority of what we read. To combat this,  taking notes when we're learning (and revisiting those notes periodically) is key for a myriad of reasons.
+We forget the vast majority of what we read. To combat this, taking notes when we're learning (and revisiting those notes periodically) is key for a myriad of reasons.
 
 One, taking notes when someone explains something to you enables you to move faster, always have a reference, and shows respect for the other person's time.
 
@@ -55,9 +56,9 @@ Building a great portfolio is an important piece of getting an interview. Compan
 
 The author recommends one high quality project that really showcases your talent as opposed to many smaller projects. Ideally, the high quality project should have the following attributes:
 
-- Clean & easy to read code 
+- Clean & easy to read code
 - Excellent documentation
-- Well written tests 
+- Well written tests
 - A README with screenshots, a link to the demo, and clear instructions on how to run it
 
 ## Takeaway #5: Powerful tips for your job search
@@ -72,7 +73,7 @@ After that, you want to write a personalized cover letter, send a cold email to 
 
 Finally, you want to network at meetups, events, and conferences. Unfortunately, these days, it's more about who you know than what you know. If you make strong connections on Twitter, LinkedIn, or at meetups, you can lean on these contacts for referrals and advice when the time comes.
 
-### Referrals. Are. Huge. 
+### Referrals. Are. Huge.
 
 According to [careerpivot](https://careerpivot.com/2017/employee-referrals-ticket-next-job/), if an employee refers you for a position you have a ~50% chance of getting an interview versus the ~3% chance if you weren't referred.
 
@@ -80,12 +81,12 @@ Doing these things will greatly increase your chances of getting an interview (a
 
 ### Technical Interview Prep
 
-The #1 rule to remember about this step is that practice makes perfect. Make a plan, be disciplined, and stick to it. Even better, find an accountability buddy to give you more motivation to keep going. 
+The #1 rule to remember about this step is that practice makes perfect. Make a plan, be disciplined, and stick to it. Even better, find an accountability buddy to give you more motivation to keep going.
 
 If you'd like to go above and beyond, [Madison Kanna](https://twitter.com/Madisonkanna) has an interesting take. She advises individuals to try to provide value to a company first before getting hired, either by helping them solve a problem or implement a feature.
 
 ## Conclusion
 
-All in all, [The Standout Developer](https://www.thestandoutdeveloper.com/) was a great, short read filled with relevant information for any developer seeking a job. It read like a series of blog posts jumping from one topic like blogging to another like preparing for technical interviews. I want to note that these takeaways were just some things I felt were important for me (and hopefully for you too); the book did cover many other topics I didn't address. 
+All in all, [The Standout Developer](https://www.thestandoutdeveloper.com/) was a great, short read filled with relevant information for any developer seeking a job. It read like a series of blog posts jumping from one topic like blogging to another like preparing for technical interviews. I want to note that these takeaways were just some things I felt were important for me (and hopefully for you too); the book did cover many other topics I didn't address.
 
 If you had any questions or want to say hi, please reach out to me on [Twitter](https://twitter.com/Nutlope) - I'd love to hear from you. Thanks for reading!
