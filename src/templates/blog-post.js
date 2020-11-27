@@ -6,14 +6,15 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Signup from "../components/Signup"
 import { rhythm, scale } from "../utils/typography"
-import logo from "./default_image.png"
+// import logo from "./default_image.png"
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
   const { ogimage } = post.frontmatter
-  const imagePath = ogimage ? ogimage.childImageSharp.fixed.src : logo
+  // const imagePath = ogimage ? ogimage.childImageSharp.fixed.src : logo
+  const imagePath = ogimage && ogimage.childImageSharp.fixed.src
 
   return (
     <Layout location={location} title={siteTitle}>
