@@ -21,7 +21,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
       <SEO
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
-        image={imagePath}
+        image={data.site.siteMetadata.siteUrl.concat(
+          post.frontmatter.ogImage.childImageSharp.fixed.src
+        )}
+        // image={imagePath}
         type="article"
       />
       <article>
@@ -94,6 +97,7 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+        siteUrl
       }
     }
     markdownRemark(fields: { slug: { eq: $slug } }) {

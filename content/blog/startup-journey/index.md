@@ -2,7 +2,7 @@
 title: How I started a 6 figure remote startup as a high school student in Africa
 date: "2020-10-11T22:40:32.169Z"
 description: A summary of how I started, scaled, and sold my startup, as well as key lessons that I learned.
-ogimage: "./journey.png"
+ogimage: ./journey.png
 ---
 
 I'm thrilled to have sold my game marketing startup so I decided to write a post to tell the story of how I built it from the ground up to a 6 figure startup with a community of 500,000 followers. I talk about lessons learned, my revenue streams, how I sold it, and more.
