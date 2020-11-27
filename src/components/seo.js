@@ -2,7 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-import defaultOpenGraphImage from "../../content/assets/default_image.png"
+// import defaultOpenGraphImage from "../../content/assets/default_image.png"
 // import defaultOpenGraphImage from "../templates/default_image.png"
 
 const SEO = ({ description, lang, meta, title, image, type }) => {

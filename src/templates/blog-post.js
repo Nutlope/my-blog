@@ -12,9 +12,9 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
-  const { ogimage } = post.frontmatter
+  // const { ogimage } = post.frontmatter
   // const imagePath = ogimage ? ogimage.childImageSharp.fixed.src : logo
-  const imagePath = ogimage && ogimage.childImageSharp.fixed.src
+  // const imagePath = ogimage && ogimage.childImageSharp.fixed.src
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -22,7 +22,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
         image={data.site.siteMetadata.siteUrl.concat(
-          post.frontmatter.ogImage.childImageSharp.fixed.src
+          post.frontmatter.ogimage.childImageSharp.fixed.src
         )}
         // image={imagePath}
         type="article"
