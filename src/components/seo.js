@@ -33,7 +33,7 @@ const SEO = ({ description, lang, meta, title, image, type }) => {
   const metaDescription = description || site.siteMetadata.description
   // Problem could lie here in the ogimageurl
   const ogImageUrl =
-    site.siteMetadata.siteUrl + image ||
+    image ||
     site.siteMetadata.siteUrl.concat(ogImageDefault.childImageSharp.fixed.src)
   const ogTitle = title || site.siteMetadata.title
   const ogType = type
