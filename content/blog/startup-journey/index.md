@@ -5,15 +5,13 @@ description: A summary of how I started, scaled, and sold my startup, as well as
 ogimage: "./journey.png"
 ---
 
-This is a reflection from 5 years of running a game marketing startup. I discuss how I built the business from the ground up to a community of 500,000 followers with no experience. I talk about lessons learned, mistakes I made, my revenue streams, and more.
-
-I was recently a guest on a [live stream](https://www.youtube.com/watch?v=Og0H0REOTco&t=488s&ab_channel=EvaincludeJS) to talk about this startup journey and decided to write a blog on it.
+I'm thrilled to have sold my game marketing startup so I decided to write a post to tell the story of how I built it from the ground up to a 6 figure startup with a community of 500,000 followers. I talk about lessons learned, my revenue streams, how I sold it, and more.
 
 This is my story.
 
 ## Backstory - \$4000 Selling Virtual Items
 
-It all started back in high school in 2013 when I used to spend a lot of my time playing a game called [TF2](https://store.steampowered.com/agecheck/app/440/).
+It all started back in high school in 2013 when I used to spend a lot of my time playing a game called Team Fortress 2.
 
 TF2 allowed users to buy virtual cosmetics for their characters. These items were expensive and in high demand as players would often spend hundreds of dollars on them to make their characters look good. For the same reason people spend thousands of dollars on nice clothes, these gamers were willing to spend handsomely to make their characters look nice.
 
@@ -27,7 +25,7 @@ Slowly, as I started building up in-game currency, I started buying multiple ite
 
 I spent ~3 hours a day looking for traders, negotiating, and trading. Despite my parents' pleas to stop wasting so much time, I continued because I saw the potential this had once I could scale it up. After a few months, I had _a few hundred dollars worth_ of items.
 
-The in-game currency could be traded for real money, so I cashed out the few hundred dollars of in-game currency to my Paypal account. I then started targeting people who quit the game and had a lot of items that they could not sell quickly. I'd buy all their items for 60% of their value in Paypal \$, take my time selling it for 80–90% of the value, cash out to Paypal, then rinse and repeat.
+The in-game currency could be traded for real money, so I cashed out the few hundred dollars of in-game currency to my PayPal account. I then started targeting people who quit the game and had a lot of items that they could not sell quickly. I'd buy all their items for 60% of their value in \$, take my time selling it for 80–90% of the value, cash out to PayPal, then rinse and repeat.
 
 After another 5 months of consistently using this strategy, **I ended up with \$4000**. While I was proud of it, the game saw a drop-off of players and I began to lose interest so I decided to start looking for something new.
 
@@ -41,7 +39,7 @@ I decided to try to see if I can help these small developers with their marketin
 
 Thus, UltraShock Gaming was born.
 
-The first thing I needed was an audience to advertise to. I already had a bit of an audience from my [YouTube Channel](https://www.youtube.com/channel/UCyKY7jfioUZ0MHON0BmHQuA), but I wanted other forms of social media to create my giveaways, so I made a steam group (similar to a Facebook page but on the Steam platform) as I determined this to have better reach for gamers than traditional social media. After this, I started reaching out to developers who had games on Steam to ask if they wanted to send me some copies of their game to give away. It was a win-win situation; they got free advertising through me showcasing their game and I was growing my steam group through the giveaways.
+The first thing I needed was an audience to advertise to. I already had a bit of an audience from my [YouTube Channel](https://www.youtube.com/channel/UCyKY7jfioUZ0MHON0BmHQuA), but I wanted other forms of social media to create my giveaways, so I made a steam group (similar to a Facebook page but on the Steam platform) as Steam had better reach for gamers than traditional social media. After this, I started reaching out to developers who had games on Steam to ask if they wanted to send me some copies of their game to give away. It was a win-win situation; they got free advertising through me showcasing their game and I was growing my steam group through the giveaways.
 
 I would post a giveaway, ask my audience to just comment anything to enter, randomly pick winners when it concluded, and distribute the games to them. [Here's an example of one I did](https://steamcommunity.com/groups/UltraShockGaming/announcements/detail/645508898226995085).
 
@@ -151,6 +149,6 @@ Just do it.
 
 ## What I'm working on now
 
-I'm focusing on finishing my degree in Computer Engineering (I graduate mid-2021), job hunting for software engineering roles at high-growth companies, and consulting for some startups. I'm also reading more and sharing what I learn on [twitter](https://twitter.com/Nutlope) and this blog.
+I'm focusing on finishing my degree in Computer Engineering, job hunting for software engineering roles at high-growth companies, and consulting for some startups. I'm also very interested in angel investing and founding another startup in the future.
 
-_Thanks for reading! If you have any questions or thoughts about the article, I’d love to hear from you on [Twitter](https://twitter.com/Nutlope) or by email (hassan@hey.com)._
+I'm sharing what I learn on twitter, so you can [**follow me there**](https://twitter.com/Nutlope) as I continue to document my journey.
