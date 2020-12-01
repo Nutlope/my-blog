@@ -6,7 +6,7 @@ module.exports = {
       summary: `who likes to code, read, & write`,
     },
     description: `Hassan's personal blog.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://elmghari.com/`,
     social: {
       twitter: `nutlope`,
     },
