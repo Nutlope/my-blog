@@ -2,11 +2,11 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-// import defaultOpenGraphImage from "../../content/assets/default_image.png"
 // import defaultOpenGraphImage from "../templates/default_image.png"
+import defaultOpenGraphImage from "../../content/assets/og-image.png"
 
 const SEO = ({ description, lang, meta, title, image, type }) => {
-  const { site, ogImageDefault } = useStaticQuery(
+  const { site } = useStaticQuery(
     graphql`
       query {
         site {
@@ -19,30 +19,21 @@ const SEO = ({ description, lang, meta, title, image, type }) => {
             }
           }
         }
-        ogImageDefault: file(absolutePath: { regex: "/assets/og-image/" }) {
-          childImageSharp {
-            fixed(height: 630, width: 1200) {
-              src
-            }
-          }
-        }
       }
     `
   )
-
+  // Maybe the site. is the problem?
   const metaDescription = description || site.siteMetadata.description
-  // Problem could lie here in the ogimageurl
   const ogImageUrl =
-    image ||
-    site.siteMetadata.siteUrl.concat(ogImageDefault.childImageSharp.fixed.src)
-  const ogTitle = title || site.siteMetadata.title
+    site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
   const ogType = type
+  // const ogTitle = title || site.siteMetadata.title
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
-      title={ogTitle}
+      title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       meta={[
         {
@@ -51,7 +42,7 @@ const SEO = ({ description, lang, meta, title, image, type }) => {
         },
         {
           property: `og:title`,
-          content: ogTitle,
+          content: title,
         },
         {
           property: `og:description`,
@@ -71,7 +62,7 @@ const SEO = ({ description, lang, meta, title, image, type }) => {
         },
         {
           name: `twitter:title`,
-          content: ogTitle,
+          content: title,
         },
         {
           name: `twitter:description`,
