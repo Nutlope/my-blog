@@ -2,7 +2,6 @@
 title: How to Develop Your Talent Stack
 date: "2020-11-03T22:40:32.169Z"
 description: A breakdown of how to be extraordinary by building your talent stack.
-ogimage: ../startup-journey/journey.png
 ---
 
 From a young age, we're taught that we need to be the best at one thing to be successful. But, this idea is becoming increasingly untrue in this age of infinite leverage.

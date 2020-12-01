@@ -2,7 +2,6 @@
 title: How I became a certified Scrum Master in 3 days
 date: "2020-09-11T22:40:32.169Z"
 description: A detailed post on exactly how I got my Professional Scrum Master certification in 3 days, and how you can too.
-ogimage: ../startup-journey/journey.png
 ---
 
 I wrote this guide to share exactly how I studied and [passed](https://www.scrum.org/user/718363) the [Professional Scrum Master I](https://www.scrum.org/professional-scrum-master-i-certification) certification, and how you can too. Let's get started!

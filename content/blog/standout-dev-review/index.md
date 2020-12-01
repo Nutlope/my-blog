@@ -2,7 +2,6 @@
 title: The Standout Developer - 5 Key Takeaways
 date: "2020-08-30T22:40:32.169Z"
 description: This is a writeup of my top 5 key takeaways from Randall Kanna's book, The Standout Developer.
-ogimage: ../startup-journey/journey.png
 ---
 
 As I was reading [The Standout Developer](https://www.thestandoutdeveloper.com/), a book about taking your developer career to the next level, I created a [twitter thread](https://twitter.com/Nutlope/status/1297929885659398145) of my top takeaways from the book. It got some attention, so I decided to write a blog post where I can focus on the top 5, expand on them some more, and include some of my own thoughts.
