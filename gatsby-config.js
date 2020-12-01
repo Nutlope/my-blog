@@ -5,7 +5,7 @@ module.exports = {
       name: `Hassan El Mghari`,
       summary: `who likes to code, read, & write`,
     },
-    description: `Hassan's personal blog.`,
+    description: `I'm a startup founder, developer, and CS student. I write about lessons from my startup, clear thinking, and productivity.`,
     siteUrl: `https://elmghari.com/`,
     social: {
       twitter: `nutlope`,

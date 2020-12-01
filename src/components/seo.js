@@ -2,7 +2,6 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
-// import defaultOpenGraphImage from "../templates/default_image.png"
 import defaultOpenGraphImage from "../../content/assets/og-image.png"
 
 const SEO = ({ description, lang, meta, title, image, type }) => {
@@ -22,19 +21,17 @@ const SEO = ({ description, lang, meta, title, image, type }) => {
       }
     `
   )
-  // Maybe the site. is the problem?
   const metaDescription = description || site.siteMetadata.description
   const ogImageUrl =
     site.siteMetadata.siteUrl + (image || defaultOpenGraphImage)
   const ogType = type
-  // const ogTitle = title || site.siteMetadata.title
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
+      titleTemplate={site.siteMetadata.title}
       meta={[
         {
           name: `description`,
