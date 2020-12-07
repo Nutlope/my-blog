@@ -26,11 +26,14 @@ Selling on the other hand is the process of convincing someone to do something. 
 - Designing landing pages or sales funnels
 - Selling the company's vision to investors when raising money through pitching
 - Selling upper management on what features or products to prioritize as a product manager
+- Inspiring direct reports by selling the company's vision
 - Selling the company's culture to prospective employees to attract talent through recruiting
 
 ## Conclusion
 
-At the end of the day, every critical role in a tech company will fall under building or selling. Learn how to do one very well, and you'll become an asset to any business you join. If you're a startup founder, you should be able to do both.
+At the end of the day, every critical role in a tech company will fall under building or selling. One also can't operate without the other. You cannot sell something that doesn't exist and you can't simply make a great product and not sell it. Nobody will buy it if nobody has heard about it.
+
+Learn how to do one very well, and you'll become an asset to any business you join. If you're a startup founder, you should be able to do both.
 
 > "Learn to sell, learn to build. If you can do both, you will be unstoppable." - Naval
 
