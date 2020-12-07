@@ -1,7 +1,7 @@
 ---
 title: "Build or Sell: The two critical skills in tech"
 date: "2020-12-07T22:40:32.169Z"
-description: A discussion of the two criticl skills in tech, what they look like, and why they're important.
+description: A writeup of the two major skills in tech, how they fit in, and why they're important.
 ---
 
 If you want to be invaluable in the tech industry, you need to learn to build or sell. These two skills are arguably the most important in the tech space since every crucial role falls under one of them.
