@@ -20,7 +20,7 @@ Building is the process of adding business value in some way. This can manifest 
 
 ## Selling
 
-Selling on the other hand is the process of convincing someone to do something. Selling will look different depending on the ]business model and stage of the company. It could be:
+Selling on the other hand is the process of convincing someone to do something. Selling will look different depending on the business model and stage of the company. It could be:
 
 - Selling to customers in the form of copywriting, outbound sales, or online marketing
 - Designing landing pages or sales funnels
