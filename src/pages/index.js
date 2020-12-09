@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import Signup from "../components/Signup"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -14,6 +15,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="Hassan's Blog" type="website" />
       <Bio />
+      <Signup />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug
         return (

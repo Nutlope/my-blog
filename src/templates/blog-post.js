@@ -4,7 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Signup from "../components/Signup"
+// import Signup from "../components/Signup"
 import { rhythm, scale } from "../utils/typography"
 // const BlogPostTemplate = ({ data, pageContext, location }) => {
 
@@ -52,7 +52,7 @@ class BlogPostTemplate extends React.Component {
               marginBottom: rhythm(1),
             }}
           />
-          <Signup />
+          {/* <Signup /> */}
           <footer>
             <Bio />
           </footer>

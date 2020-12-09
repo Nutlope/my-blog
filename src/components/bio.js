@@ -40,7 +40,6 @@ const Bio = () => {
     <div
       style={{
         display: `flex`,
-        marginBottom: rhythm(2.5),
       }}
     >
       <Image
@@ -57,9 +56,8 @@ const Bio = () => {
         }}
       />
       <p style={{ maxWidth: 310 }}>
-        Personal blog by{" "}
-        <a href={`https://twitter.com/${social.twitter}`}>Hassan El Mghari</a>.{" "}
-        I&nbsp;code, read, and write.
+        Hi, I'm <a href={`https://twitter.com/${social.twitter}`}>Hassan</a>. I
+        write about productivity, coding, & startup lessons.
       </p>
     </div>
   )

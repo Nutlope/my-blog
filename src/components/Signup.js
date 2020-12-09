@@ -1,19 +1,18 @@
 // Forked from https://github.com/gaearon/overreacted.io
 
 import React from "react"
-
 import "./Signup.css"
 
 class Signup extends React.Component {
   render() {
     let form = {
       id: "1630174",
-      title: "Subscribe to the Newsletter",
-      subTitle: "Get exclusive blog posts before I release them.",
+      title: "Join 1,000+ readers",
+      subTitle: "Get 1 email a month with my best essays and resources. ",
       buttonText: "Subscribe",
     }
     return (
-      <div>
+      <div class="container">
         <form
           action={`https://app.convertkit.com/forms/${form.id}/subscriptions`}
           className="seva-form formkit-form"
@@ -145,7 +144,7 @@ class Signup extends React.Component {
                   fontWeight: 400,
                 }}
               >
-                <p>I won’t send you spam.</p>
+                <p>High signal. Low noise.</p>
                 <p>
                   Unsubscribe at <em>any</em> time.
                 </p>
