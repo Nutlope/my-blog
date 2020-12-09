@@ -55,9 +55,12 @@ const Bio = () => {
           borderRadius: `50%`,
         }}
       />
-      <p style={{ maxWidth: 310 }}>
-        Hi, I'm <a href={`https://twitter.com/${social.twitter}`}>Hassan</a>. I
-        write about productivity, coding, & startup lessons.
+      <p style={{ maxWidth: 500 }}>
+        Personal blog by{" "}
+        <a href={`https://twitter.com/${social.twitter}`}>Hassan El Mghari</a>.
+        <br />
+        {/* I&nbsp;code, read, and write. */}I write about productivity and
+        lessons from my startup.
       </p>
     </div>
   )

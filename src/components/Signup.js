@@ -7,8 +7,9 @@ class Signup extends React.Component {
   render() {
     let form = {
       id: "1630174",
-      title: "Join 1,000+ readers",
-      subTitle: "Get 1 email a month with my best essays and resources. ",
+      title: "Join the List",
+      subTitle:
+        "Get exclusive emails that hyperfocus on one life changing idea at a time.",
       buttonText: "Subscribe",
     }
     return (
