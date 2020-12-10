@@ -59,8 +59,7 @@ const Bio = () => {
         Personal blog by{" "}
         <a href={`https://twitter.com/${social.twitter}`}>Hassan El Mghari</a>.
         <br />
-        {/* I&nbsp;code, read, and write. */}I write about productivity and
-        lessons from my startup.
+        I&nbsp;code, read, and write.
       </p>
     </div>
   )
