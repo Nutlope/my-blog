@@ -117,7 +117,9 @@ The revenue was split in the following way:
 - Greenlight flat fee deals - \$2000
 - Twitch streaming - \$1000
 
-At the end of the second year, we had built a substantial follower base: 20k on Twitch, 30k on Facebook, 80k on Twitter, \$130k email newsletter, and 700k on Steam.
+At the end of the second year, we had built a substantial follower base: 20k on Twitch, 30k on Facebook, 80k on Twitter, 130k email newsletter, and 700k on Steam.
+
+![Screenshot of Mailchimp Newsletter](./email_usg.png)
 
 This is when I made the biggest mistake of my startup career.
 
