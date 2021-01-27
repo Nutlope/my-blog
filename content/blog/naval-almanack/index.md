@@ -1,6 +1,6 @@
 ---
 title: The Naval Almanack - 8 key takeaways
-date: "2021-01-27T22:40:32.169Z"
+date: "2021-01-28T22:40:32.169Z"
 description: My main takeaways from a book packed with naval's wisdom on life and tech.
 ---
 
