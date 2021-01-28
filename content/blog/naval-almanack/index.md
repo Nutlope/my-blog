@@ -24,7 +24,7 @@ To become wealthy, Naval recommends playing iterated games to take advantage of 
 
 As a personal example, I spent roughly 3 hours a day for a month trying to grow a [game marketing community](https://twitter.com/ushockgaming) that I planned to monetize by doing free game giveaways. I'd spent over 80 hours by the end of the month and we didn't only grew by a few hundred members. I could have easily given up, but I stayed with it and within another 5 months, we hit 50,000 members. Consistency over an extended period of time pays off.
 
-Naval also advocates becoming the best in the world at what you do. This doesn't neccisarily mean you need to be the best at a singular skill but rather be the best at whatever you do by cultivating a unique [talent stack](https://www.elmghari.com/talent-stack/).
+Naval also advocates becoming the best in the world at what you do. This doesn't necessarily mean you need to be the best at a singular skill but rather be the best at whatever you do by cultivating a unique [talent stack](https://www.elmghari.com/talent-stack/).
 
 ## Takeaway #2: Change yourself
 
@@ -44,7 +44,7 @@ To build trust:
 - Do high quality work in a visible and accountable way
 - Do things with integrity
 
-Most people have a problem working in a highly visible way because they're afraid for the world to ssee their failures. But to get rich you need leverage, which needs labor or capital, which needs credibility, which you can build through working in a visible and accountable way.
+Most people have a problem working in a highly visible way because they're afraid for the world to see their failures. But to get rich you need leverage, which needs labor or capital, which needs credibility, which you can build through working in a visible and accountable way.
 
 Build & fail in Public. People will forgive failures as long as you were honest and made a high-integrity effort.
 
@@ -64,7 +64,7 @@ One of the biggest indicators of future success is having a bias for action.
 
 For most things (relationships, work, learning), try to find the thing you can go all-in on to earn compound interest. Move slowly when choosing what to focus on, then move very quickly once you've decided. Wait for your moment when something emerges in the world, they need a skill set, and you’re uniquely qualified.
 
-When you find the right thing to do or the right people to work with, invest deeply. It will pay dividents in the future.
+When you find the right thing to do or the right people to work with, invest deeply. It will pay dividends in the future.
 
 A great example of this is [Traf](https://twitter.com/traf), he saw a unique opportunity that was 7 years in the making and [made \$100k in 6 days](https://tr.af/6).
 
@@ -84,9 +84,9 @@ Dru started writing concise reports on trends in February and initially gave the
 
 Specific Knowledge is knowledge that can be learned but can't be taught (only learned through experience).
 
-It's found by pursuing your talents, curiosity, and passion. Books can help a little but you can only get that level of tacit knowledge from pursusing something in great detail over a long period of time. Choose something and execute, self-correcting along the way.
+It's found by pursuing your talents, curiosity, and passion. Books can help a little but you can only get that level of tacit knowledge from pursuing something in great detail over a long period of time. Choose something and execute, self-correcting along the way.
 
-When building your specific knowledge, you need to master the fundementals so you can explain anything to a child. That's when you really know it.
+When building your specific knowledge, you need to master the fundamentals so you can explain anything to a child. That's when you really know it.
 
 Make the time to think by budgeting a full day each week and doing nothing but reading and resting.
 
